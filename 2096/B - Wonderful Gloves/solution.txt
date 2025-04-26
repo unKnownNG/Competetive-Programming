@@ -1,0 +1,17 @@
+n = int(input())
+for _ in range(n):
+  a,b = map(int, input().split())
+  l1 = list(map(int, input().split()))
+  l2 = list(map(int, input().split()))
+  hig = [max(l1[i], l2[i]) for i in range(a)]
+  low = [min(l1[i], l2[i]) for i in range(a)]
+  
+  low.sort()
+  
+  val = sum(hig)
+  ind = -1
+  
+  for i in range(b - 1):
+    val += low[ind]
+    ind -= 1
+  print(val + 1)
