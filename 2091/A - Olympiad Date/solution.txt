@@ -1,0 +1,16 @@
+x = int(input())
+ 
+for _ in range(x):
+    n = int(input())
+    l = [0, 1, 0,3 , 2, 0 ,2, 5]
+    s = list(input().split())
+    
+    c = 0
+    for i in s:
+        if l == []:
+            break
+        if int(i) in l:
+            l.remove(int(i))
+        c += 1
+    print(c if l == [] else 0)
+        
