@@ -1,0 +1,12 @@
+x = int(input())
+ 
+for _ in range(x):
+    n = int(input())
+    l1 = [i for i in range(1, n + 1)]
+    l2 = l1[::-1]
+    sum = 0
+    for i in range(n ): 
+      sum += abs(l1[i] - l2[i])
+    print(int(sum/2) + 1)
+    
+ 
