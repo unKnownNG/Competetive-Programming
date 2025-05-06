@@ -1,0 +1,4 @@
+n = int(input())
+l = list(map(int,input().split()))
+l2 = [abs(i) for i in l]
+print(min(l2))
