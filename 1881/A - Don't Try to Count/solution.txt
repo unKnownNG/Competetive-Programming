@@ -1,0 +1,26 @@
+t = int(input())
+ 
+for _ in range(t):
+    a,b = list(map(int, input().split()))
+    s = input()
+    target = input()
+    s1 = s + s
+    s2 = s1 + s1
+    s3 = s2 + s2
+    s4 = s3 + s3
+    s5 = s4 + s4
+    # s6 = s5 + s5
+    result = -1
+    if target in s:
+        result = 0
+    elif target in s1:
+        result = 1
+    elif target in s2:
+        result = 2
+    elif target in s3:
+        result = 3
+    elif target in s4:
+        result = 4
+    elif target in s5:
+        result = 5
+    print(result)
