@@ -1,0 +1,9 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    x = n ** 0.5
+    if x == int(x):
+        print(int(x), 0)
+    else:
+        print(-1)
