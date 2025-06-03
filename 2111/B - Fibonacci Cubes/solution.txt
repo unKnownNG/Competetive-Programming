@@ -1,0 +1,36 @@
+t = int(input())
+ 
+fib = [0] * (11)
+fib[1] = 1
+fib[2] = 2
+ 
+for i in range(3, 11):
+    fib[i] = fib[i - 1] + fib[i - 2]
+ 
+ 
+for _ in range(t):
+    f,x = list(map(int, input().split()))
+    l = []
+    s = []
+    largeCube = fib[f]
+    fibHeight = fib[f] + fib[max(0, f - 1)]
+    for i in range(x):
+        currList = list(map(int, input().split()))
+        currList.sort()
+        if fibHeight> largeCube:
+            if currList[2] >= fibHeight  and currList[0] >= largeCube and currList[1] >= largeCube:
+                s.append("1")
+            else: s.append("0")
+        else:
+            if currList[2] >= largeCube  and currList[0] >= fibHeight and currList[1] >= largeCube:
+                s.append("1")
+            else: s.append("0")
+ 
+ 
+    for i in s:
+        print(i, end="")
+    print()
+ 
+ 
+ 
+    
