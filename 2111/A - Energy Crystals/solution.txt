@@ -1,0 +1,12 @@
+t = int(input())
+ 
+for _ in range(t):
+    x = int(input())
+    l = [0,0,0]
+    c = 0
+    while min(l) < x:
+        l.sort()
+        l[0] = min(x, (2 * l[1]) + 1)
+        c += 1
+        # print(l)
+    print(c)
