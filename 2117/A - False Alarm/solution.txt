@@ -1,0 +1,20 @@
+n = int(input())
+ 
+for _ in range(n):
+    a,b = map(int,input().split())
+    l = list(map(int , input().split()))
+    used = 0
+ 
+    i =0
+    poss = 1
+    while i < a:
+        if l[i] == 0:
+            i += 1
+        elif l[i] == 1 and used == 0:
+            used = 1
+            i += b
+        else:
+            poss = 0
+            break
+    print("YES" if poss else "NO")
+ 
