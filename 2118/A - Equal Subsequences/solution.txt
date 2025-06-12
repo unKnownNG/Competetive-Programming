@@ -1,0 +1,12 @@
+n = int(input())
+ 
+for _ in range(n):
+    a,b = map(int,input().split())
+    l = []
+    for i in range(b):
+        l.append(1)
+    for j in range(a - b):
+        l.append(0)
+    for i in l:
+        print(i, end= "")
+    print()
