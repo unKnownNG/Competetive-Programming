@@ -12,6 +12,8 @@ void solve(){
         cout << i << " " <<i  << " "<< n << endl; 
  
  
+ 
+ 
     }
  
 }
