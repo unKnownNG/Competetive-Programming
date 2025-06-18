@@ -1,0 +1,27 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    l = list(map(int,input().split()))
+    d = {}
+    for i in l:
+        if i not in d:
+            d[i] = 1
+        else:
+            d[i] += 1
+    c = 1
+    f = 1
+    for i in d:
+        if d[i] == 1:
+            print(-1)
+            f = 0
+            break
+    if f:
+        for i in d:
+            x = d[i]
+            # print("a", x)
+            for i in range(c +1, c + x  ):
+                print(i, end = " ")
+            print(c, end = " ")
+            c += x
+        print()
