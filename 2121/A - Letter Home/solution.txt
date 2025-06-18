@@ -1,0 +1,16 @@
+n = int(input())
+for _ in range(n):
+    a,b = map(int, input().split())
+    l = list(map(int,input().split()))
+    if a == 1:
+        print(abs(b - l[0]))
+        continue
+    if b <= l[0] :
+        print(abs(l[-1] - b))
+        continue
+    elif b >=l[-1]:
+        print(b - l[0])
+        continue
+    large = max((b - l[0]), (l[-1] - b))
+    small = min((b - l[0]), (l[-1] - b))
+    print(small * 2 + large)
