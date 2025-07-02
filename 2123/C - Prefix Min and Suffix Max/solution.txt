@@ -1,0 +1,28 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    l = list(map(int, input().split()))
+    s = -1 
+    m = 10e6 + 1
+    pref = [-1] * n
+    suf = [-1] * n
+    res = []
+    for i in range(n):
+        pref[i] = min(m, l[i])
+        m = pref[i]
+    j = n - 1
+    while j + 1:
+        suf[j] = max(s, l[j])
+        s = suf[j]
+        j -= 1
+    # print(pref, suf)
+    for i in range(n):
+        if l[i] == pref[i] or l[i] == suf[i]:
+            res.append("1")
+        else:res.append("0")
+    for i in res:
+        print(i, end="")
+    print()
+        
+ 
