@@ -1,0 +1,18 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    px,py, qx,qy = list(map(int, input().split()))
+    l = list(map(int, input().split()))
+ 
+    Distance = (((qx - px)**2)+ ((qy - py) ** 2)) ** 0.5
+    Sum = sum(l)
+    Max = max(l)
+ 
+    # print((2 * Max) - Sum, Distance, Sum)
+ 
+    if max((2 * Max) - Sum,0) <= Distance and Distance <= Sum :
+        print("yes")
+    else:
+        print("no")
+ 
