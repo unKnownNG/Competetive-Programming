@@ -1,0 +1,27 @@
+# Read the number of test cases
+t = int(input())
+ 
+for _ in range(t):
+    a, b, x, y = map(int, input().split())
+    if a == b:
+        print(0)
+        continue
+    if a > b:
+        if a % 2 == 1 and b == a - 1:
+            print(y)
+        else:
+            print(-1)
+        continue
+    if a < b:
+        if x <= y:
+            print((b - a) * x)
+        else:
+            c = 0
+            curr = a
+            while curr < b:
+                if curr % 2 == 0:
+                    c += y
+                else:
+                    c += x
+                curr += 1
+            print(c)
