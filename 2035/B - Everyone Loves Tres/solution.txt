@@ -1,0 +1,18 @@
+t = int(input())
+ 
+for _ in range(t):
+    n = int(input())
+    l = []
+    if n == 1 or n == 3:
+        print(-1)
+        continue
+    if n&1:
+        c = n - 5
+        l.append("3" * c)
+        l.append("36366")
+    else:
+        l.append("3" * (n - 2))
+        l.append("66")
+    for i in range(len(l)):
+        print(l[i], end = "")
+    print()
