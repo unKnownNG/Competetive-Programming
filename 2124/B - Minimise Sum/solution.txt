@@ -1,0 +1,18 @@
+import sys
+input = sys.stdin.readline
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n = int(input())
+    l = list(map(int , input().split()))
+    c = 0
+    if n == 1: 
+        print(l[0])
+        continue
+    if l[0] <= l[1]:
+        c += (l[0]* 2)
+    else:
+        c += l[0] + l[1]
+    print(c)
+ 
