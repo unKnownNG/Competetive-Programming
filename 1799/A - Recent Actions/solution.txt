@@ -1,0 +1,42 @@
+import sys
+from collections import OrderedDict
+ 
+input = sys.stdin.readline
+ 
+def solve():
+    n, m = map(int, input().split())
+    p = list(map(int, input().split()))
+ 
+    # removal_times[i] = time when post i (1≤i≤n) is evicted, or -1
+    removal_times = [-1] * (n+1)
+ 
+    # OrderedDict: keys are current posts in the field, in top→bottom order.
+    # Leftmost key is the “top”; rightmost is the “bottom”.
+    field = OrderedDict((i, None) for i in range(1, n+1))
+ 
+    for t, post in enumerate(p, start=1):
+        if post in field:
+            # Move existing post to the top (front)
+            field.move_to_end(post, last=False)
+        else:
+            # Insert new post at the top
+            field[post] = None
+            field.move_to_end(post, last=False)
+ 
+            # If we exceed size n, evict the bottom
+            if len(field) > n:
+                removed_post, _ = field.popitem(last=True)
+                # If it was one of the original [1..n], record its eviction time
+                if 1 <= removed_post <= n and removal_times[removed_post] == -1:
+                    removal_times[removed_post] = t
+ 
+    # Print results for posts 1..n
+    print(" ".join(str(removal_times[i]) for i in range(1, n+1)))
+ 
+def main():
+    T = int(input())
+    for _ in range(T):
+        solve()
+ 
+if __name__ == "__main__":
+    main()
