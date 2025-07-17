@@ -1,0 +1,32 @@
+import sys
+input = sys.stdin.readline
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n, k = map(int , input().split())
+    l = list(map(int, input().split()))
+    curr = l[k -1]
+ 
+    l.sort()
+    idx = 0
+    for i in range(n):
+        if l[i] == curr:
+            idx = i 
+            break
+    time = 0
+    can = 1
+    while idx < n - 1:
+        if l[idx] == l[idx + 1]:
+            idx += 1
+            continue
+ 
+        if (l[idx + 1] - l[idx] ) > l[idx] - time:
+            can = 0
+            break
+        if l[idx + 1] - l[idx] + time > l[idx + 1] - 1:
+            can = 0
+            break
+        time += l[idx + 1] - l[idx]
+        idx += 1
+    print("yes" if can else "no")
