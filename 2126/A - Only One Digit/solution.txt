@@ -1,0 +1,11 @@
+import sys
+input = sys.stdin.readline
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    x = input().strip()
+    m = x[0]
+    for i in x:
+        m = min(m, i)
+    print(m)
