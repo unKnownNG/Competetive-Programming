@@ -1,0 +1,25 @@
+import sys
+input = sys.stdin.readline
+ 
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n, k = map(int, input().split())
+    l = list(map(int, input().split()))
+    i = 0
+    c = 0
+    while i <= n - k:
+        f = 1
+        for j in range(i,i  + k):
+            if l[j] == 1:
+                f = 0
+                break
+            
+        if f:
+            c +=1
+            i += k + 1
+        else:
+            i += 1
+        # c += 1
+    print(c)
