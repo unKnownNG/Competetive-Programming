@@ -1,0 +1,13 @@
+import sys
+input = sys.stdin.readline
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n,m = map(int, input().split())
+    if n ==1 or m == 1:
+        print("no")
+    elif n == 2 and m == 2:
+        print("no")
+    else:
+        print("yes")
