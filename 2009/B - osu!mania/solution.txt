@@ -1,0 +1,17 @@
+import sys
+ 
+# Fast input alias
+input = sys.stdin.readline
+ 
+# Read number of test cases
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n = int(input())
+    l = []
+    for i in range(n):
+        x = input().index("#")
+        l.append(x + 1)
+    l.reverse()
+    print(*l)
