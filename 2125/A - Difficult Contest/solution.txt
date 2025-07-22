@@ -1,0 +1,27 @@
+import sys
+ 
+# Fast input alias
+input = sys.stdin.readline
+ 
+# Read number of test cases
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    s = input()
+    d = {}
+    p = 0
+    for i in s:
+        if i == "T":
+            p = 1
+        if i not in d:
+            d[i] = 1
+        else:
+            d[i] +=1
+    if p:
+        a = d["T"]
+        print("T"*a, end = "")
+    for i in d:
+        if i != "T":
+            print(i*d[i], end = "")
+    # print()
