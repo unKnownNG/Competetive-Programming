@@ -1,0 +1,32 @@
+import sys
+input = sys.stdin.readline
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n,x = map(int, input().split())
+    l = list(map(int,input().split()))
+    l.sort()
+    c = 0
+    q = 1
+ 
+    minList = [0] * n
+    curr = x   
+    for i in range(n):
+        minList[n - i - 1] = curr
+        curr//=2
+    
+    f = 0
+    i = 0
+    # print(l, minList)
+    # for i in l:
+    #     if x < i * q:
+    #         c+=1 
+    #     q+= 1
+        
+    # print(c)
+    for j in minList:
+        if i < n and l[i] <= j:
+            f+= 1
+            i += 1
+    print(n - f)
