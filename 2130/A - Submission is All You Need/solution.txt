@@ -1,0 +1,21 @@
+import sys
+ 
+# Fast input alias
+input = sys.stdin.readline
+ 
+# Read number of test cases
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n = int(input())
+    l = list(map(int, input().split()))
+    s = 0
+    zc = 0
+    # nzs = 0
+    for i in l:
+        if i == 0:
+            zc += 1
+        else:
+            s += i
+    print(s + zc)
