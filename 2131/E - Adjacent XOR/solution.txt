@@ -1,0 +1,26 @@
+import sys
+ 
+# Fast input alias
+input = sys.stdin.readline
+ 
+# Read number of test cases
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n = int(input())
+    a = list(map(int, input().split()))
+    b  = list(map(int, input().split()))
+ 
+    if a[-1] != b[-1]:
+        print("no")
+        continue
+    f = 1
+ 
+    for i in range(n -1):
+        curr = a[i] ^ b[i]
+        if curr != 0 and curr != a[i+1] and curr != b[i+1]:
+            f = 0
+            break
+ 
+    print("yes" if f else "no")
