@@ -1,0 +1,28 @@
+import sys
+ 
+# Fast input alias
+input = sys.stdin.readline
+ 
+# Read number of test cases
+t = int(input())
+ 
+def do(a,b):
+    c = 0
+    while a > b:
+        c+=1
+        a-= 1
+    return c
+ 
+ 
+ 
+for _ in range(t):
+    # LOGIC
+    n = int(input())
+    a = list(map(int, input().split()))
+    b = list(map(int, input().split()))
+ 
+    c = 1
+    for i in range(n):
+        if a[i] > b[i] :
+            c+= do(a[i], b[i])
+    print(c)
