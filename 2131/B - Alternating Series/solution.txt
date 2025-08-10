@@ -1,0 +1,25 @@
+import sys
+ 
+# Fast input alias
+input = sys.stdin.readline
+ 
+# Read number of test cases
+t = int(input())
+ 
+for _ in range(t):
+    # LOGIC
+    n = int(input())
+    if n&1: cur = (n+1)/2 
+    else: cur = n/2
+    # cur = int(n/2)
+    c = int(cur) + 1
+    for i in range(n - 1):
+        if(not i&1):
+            print(-1, end = " ")
+        else:
+            print(3, end = " ")
+            c -= 1
+    if not n&1:print(2)
+    else:
+        print(-1)
+    # print()
