@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve() {    long long m, n, a;    cin >> m >> n >> a;     long long ans = ((m + a - 1) / a) * ((n + a - 1) / a);    cout << ans << "\n";} int main() {    ios::sync_with_stdio(false);    cin.tie(nullptr);     solve();}
