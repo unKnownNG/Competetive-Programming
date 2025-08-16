@@ -1,0 +1,1 @@
+import sys # Fast input aliasinput = sys.stdin.readline # Read number of test casesv = {"a", "e", "i", "o", "u", "y"}s = input().strip()for i in s:    if i.lower() in v:        pass    else:        print(f".{i.lower()}", end="")# print()
