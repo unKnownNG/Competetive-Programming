@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve(){    // LOGIC    long long a,b;    cin >> a >> b;    if(b * b > a) cout << "no\n";    else if(a%2 != b%2) cout << "no\n";    else cout << "yes\n";} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout     int n;    cin >> n;    while(n--) solve();}
