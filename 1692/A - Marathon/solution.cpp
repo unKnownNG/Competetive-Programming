@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve(){    // LOGIC    int a , b , k, d;    cin >> a >> b  >> k >> d;    int c = 0;    if(a < b) c++;    if(a < d) c++;    if(a < k) c++;    cout << c << endl;} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout     int n;    cin >> n;    while(n--) solve();}
