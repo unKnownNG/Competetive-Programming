@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;const int MOD = 1e9 + 7;void solve(){    // LOGIC    long long n;    cin >> n;        cout << (((4 * n) - 1)%MOD * (n)%MOD * (n + 1)%MOD * (337)) % MOD << endl;} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout     int n;    cin >> n;    while(n--) solve();}
