@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve(){    // LOGIC    string s;    cin >> s;     for(auto i : s){        if( i == 'H' || i == 'Q' || i == '9'){            cout << "YES\n";            return;        }    }    cout << "NO\n";} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout solve();}
