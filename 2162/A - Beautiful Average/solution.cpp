@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve(){    // LOGIC    int n;    cin >>n;    vector<int> v(n);      for(int i = 0; i < n; i++) cin >> v[i];     cout << *max_element(v.begin(), v.end()) << endl;} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout     int n;    cin >> n;    while(n--) solve();}
