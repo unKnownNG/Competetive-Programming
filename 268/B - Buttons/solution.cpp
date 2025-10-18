@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve(){    // LOGIC    long long n;    cin >> n;     long long ans = ((n * n * n) + (5 * n))/6;    cout << ans << endl;} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout      solve();}
