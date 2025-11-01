@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve(){    // LOGIC    int a,b;    cin >> a >> b;    if(a == b){        cout << "1\n" << a << endl;        return;    }     int p = (3 * a) - b;    cout << "3\n";    cout << p - b << " " << b << " " << b;} int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout     solve();}
