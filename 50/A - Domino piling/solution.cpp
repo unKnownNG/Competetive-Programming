@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;#define ll long long void solve(){    // LOGIC    ll a,b;    cin >> a >> b;       cout << (a * b )/2;    } int main(){    ios::sync_with_stdio(false); // Fast I/O    cin.tie(nullptr);            // Untie cin from cout     solve();}
