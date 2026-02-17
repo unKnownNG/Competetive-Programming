@@ -1,0 +1,24 @@
+<h3><a href="https://codeforces.com/contest/1365/problem/B" target="_blank" rel="noopener noreferrer">Trouble Sort</a></h3>
+
+<div class="header"><div class="title">B. Trouble Sort</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Ashish has $$$n$$$ elements arranged in a line. </p><p>These elements are represented by two integers $$$a_i$$$ — the value of the element and $$$b_i$$$ — the type of the element (there are only two possible types: $$$0$$$ and $$$1$$$). He wants to sort the elements in non-decreasing values of $$$a_i$$$.</p><p>He can perform the following operation any number of times: </p><ul><li> Select any two elements $$$i$$$ and $$$j$$$ such that $$$b_i \ne b_j$$$ and swap them. That is, he can only swap two elements of different types in one move. </li></ul><p>Tell him if he can sort the elements in non-decreasing values of $$$a_i$$$ after performing any number of operations.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$t$$$ $$$(1 \le t \le 100)$$$ — the number of test cases. The description of the test cases follows.</p><p>The first line of each test case contains one integer $$$n$$$ $$$(1 \le n \le 500)$$$ — the size of the arrays.</p><p>The second line contains $$$n$$$ integers $$$a_i$$$ $$$(1 \le a_i \le 10^5)$$$  — the value of the $$$i$$$-th element.</p><p>The third line containts $$$n$$$ integers $$$b_i$$$ $$$(b_i \in \{0, 1\})$$$  — the type of the $$$i$$$-th element.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print "<span class="tex-font-style-tt">Yes</span>" or "<span class="tex-font-style-tt">No</span>" (without quotes) depending on whether it is possible to sort elements in non-decreasing order of their value.</p><p>You may print each letter in any case (upper or lower).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003358654032343894" id="id00823550412358943" class="input-output-copier">Copy</div></div><pre id="id003358654032343894">5
+4
+10 20 20 30
+0 1 0 1
+3
+3 1 2
+0 1 1
+4
+2 2 4 8
+1 1 1 1
+3
+5 15 4
+0 0 0
+4
+20 10 100 50
+1 0 0 1
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005381126353004921" id="id004687408501813882" class="input-output-copier">Copy</div></div><pre id="id005381126353004921">Yes
+Yes
+Yes
+No
+Yes
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>For the first case: The elements are already in sorted order.</p><p>For the second case: Ashish may first swap elements at positions $$$1$$$ and $$$2$$$, then swap elements at positions $$$2$$$ and $$$3$$$.</p><p>For the third case: The elements are already in sorted order.</p><p>For the fourth case: No swap operations may be performed as there is no pair of elements $$$i$$$ and $$$j$$$ such that $$$b_i \ne b_j$$$. The elements cannot be sorted.</p><p>For the fifth case: Ashish may swap elements at positions $$$3$$$ and $$$4$$$, then elements at positions $$$1$$$ and $$$2$$$.</p></div>
