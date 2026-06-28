@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 
 ---
 
@@ -21,6 +21,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
+| 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
 
 ---
 
