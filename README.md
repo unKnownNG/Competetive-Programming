@@ -6,13 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 1 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 
 ---
 
@@ -22,6 +25,24 @@
 |---|---------|------------|----------|
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
 
 ---
 
