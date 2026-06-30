@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 4 |
+| 6 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
@@ -27,6 +27,7 @@
 | 2238C | [Village Guilds](https://codeforces.com/contest/2238/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2238/C%20-%20Village%20Guilds/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2241D | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2241/D%20-%20An%20Alternative%20Way/solution.cpp) |
 
 ### dp
 
