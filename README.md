@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [Uncategorized](#uncategorized) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (1)
-- [greedy](#greedy) (1)
+- [dp](#dp) (2)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
@@ -42,12 +42,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
+| 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
+| 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 
 ### implementation
 
