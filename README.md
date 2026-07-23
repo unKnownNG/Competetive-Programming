@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 15 |
+| 32 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -112,6 +112,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 459A | [Pashmak and Garden](https://codeforces.com/contest/459/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/459/A%20-%20Pashmak%20and%20Garden/solution.cpp) |
 | 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
 | 1811B | [Conveyor Belts](https://codeforces.com/contest/1811/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1811/B%20-%20Conveyor%20Belts/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
