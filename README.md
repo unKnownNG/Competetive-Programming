@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 20 |
+| 39 | 20 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
@@ -94,6 +94,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 118D | [Caesar's Legions](https://codeforces.com/contest/118/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/118/D%20-%20Caesar's%20Legions/solution.cpp) |
 | 489C | [Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/489/C%20-%20Given%20Length%20and%20Sum%20of%20Digits.../solution.cpp) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 909C | [Python Indentation](https://codeforces.com/contest/909/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/909/C%20-%20Python%20Indentation/solution.cpp) |
