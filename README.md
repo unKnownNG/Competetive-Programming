@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 20 |
+| 43 | 21 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [Uncategorized](#uncategorized) (18)
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (4)
@@ -24,7 +25,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (5)
-- [math](#math) (11)
+- [math](#math) (12)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -63,6 +64,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### combinatorics
 
@@ -164,6 +171,7 @@
 | 1811B | [Conveyor Belts](https://codeforces.com/contest/1811/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1811/B%20-%20Conveyor%20Belts/solution.cpp) |
 | 1856B | [Good Arrays](https://codeforces.com/contest/1856/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1856/B%20-%20Good%20Arrays/solution.cpp) |
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.cpp) |
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
