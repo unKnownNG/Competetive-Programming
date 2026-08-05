@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 21 |
+| 47 | 21 |
 
 ---
 
@@ -25,9 +25,9 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [implementation](#implementation) (5)
-- [math](#math) (12)
+- [math](#math) (13)
 - [matrices](#matrices) (1)
-- [number theory](#number-theory) (2)
+- [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (2)
@@ -168,6 +168,7 @@
 |---|---------|------------|----------|
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.cpp) |
+| 1458A | [Row GCD](https://codeforces.com/contest/1458/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1458/A%20-%20Row%20GCD/solution.cpp) |
 | 1520E | [Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1520/E%20-%20Arranging%20The%20Sheep/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.cpp) |
@@ -189,6 +190,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1458A | [Row GCD](https://codeforces.com/contest/1458/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1458/A%20-%20Row%20GCD/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 
