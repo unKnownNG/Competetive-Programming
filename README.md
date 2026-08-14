@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 21 |
+| 58 | 21 |
 
 ---
 
@@ -23,16 +23,16 @@
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (6)
 - [math](#math) (14)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (8)
+- [sortings](#sortings) (9)
 - [strings](#strings) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -164,6 +164,7 @@
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
+| 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.cpp) |
 
 ### implementation
 
@@ -228,6 +229,7 @@
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
+| 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.cpp) |
 
 ### strings
 
@@ -248,6 +250,7 @@
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.cpp) |
+| 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.cpp) |
 
 ---
 
