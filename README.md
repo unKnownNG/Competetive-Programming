@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 21 |
+| 59 | 21 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (9)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
@@ -31,7 +31,7 @@
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (9)
 - [strings](#strings) (2)
-- [trees](#trees) (1)
+- [trees](#trees) (2)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -112,6 +112,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1143C | [Queen](https://codeforces.com/contest/1143/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1143/C%20-%20Queen/solution.cpp) |
 
 ### dp
 
@@ -243,6 +244,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1037D | [Valid BFS?](https://codeforces.com/contest/1037/problem/D) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1037/D%20-%20Valid%20BFS%3F/solution.cpp) |
+| 1143C | [Queen](https://codeforces.com/contest/1143/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1143/C%20-%20Queen/solution.cpp) |
 
 ### two pointers
 
