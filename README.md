@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 21 |
+| 70 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (30)
+- [Uncategorized](#uncategorized) (31)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (3)
@@ -70,6 +70,7 @@
 | 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### binary search
 
