@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 21 |
+| 73 | 21 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (15)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (5)
@@ -198,6 +198,7 @@
 | 1856B | [Good Arrays](https://codeforces.com/contest/1856/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1856/B%20-%20Good%20Arrays/solution.cpp) |
 | 1992D | [Test of Love](https://codeforces.com/contest/1992/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1992/D%20-%20Test%20of%20Love/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
 
