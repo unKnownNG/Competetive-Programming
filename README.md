@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 21 |
+| 78 | 21 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (20)
+- [greedy](#greedy) (21)
 - [implementation](#implementation) (11)
 - [math](#math) (16)
 - [matrices](#matrices) (1)
@@ -187,6 +187,7 @@
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### implementation
 
