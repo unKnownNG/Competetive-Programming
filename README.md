@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 21 |
+| 80 | 21 |
 
 ---
 
@@ -19,15 +19,15 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (12)
+- [dp](#dp) (13)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (22)
 - [implementation](#implementation) (11)
-- [math](#math) (17)
+- [math](#math) (18)
 - [matrices](#matrices) (1)
-- [number theory](#number-theory) (6)
+- [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (11)
 - [strings](#strings) (2)
@@ -142,6 +142,7 @@
 | 2144C | [Non-Descending Arrays](https://codeforces.com/contest/2144/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2144/C%20-%20Non-Descending%20Arrays/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 
 ### games
 
@@ -228,6 +229,7 @@
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 
 ### matrices
 
@@ -245,6 +247,7 @@
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 
 ### shortest paths
 
