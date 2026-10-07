@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 21 |
+| 87 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (35)
+- [Uncategorized](#uncategorized) (37)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (3)
@@ -75,6 +75,8 @@
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 
 ### binary search
 
