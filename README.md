@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 21 |
+| 88 | 21 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (14)
+- [dp](#dp) (15)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (23)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (18)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (7)
@@ -149,6 +149,7 @@
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
+| 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 
 ### games
 
@@ -214,6 +215,7 @@
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
 
 ### math
 
