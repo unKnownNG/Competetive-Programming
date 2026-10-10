@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 21 |
+| 89 | 21 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [Uncategorized](#uncategorized) (37)
 - [binary search](#binary-search) (4)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (15)
@@ -29,7 +29,7 @@
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (11)
+- [sortings](#sortings) (12)
 - [strings](#strings) (3)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (6)
@@ -94,6 +94,7 @@
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### combinatorics
 
@@ -111,6 +112,7 @@
 | 2233B | [Different Distances](https://codeforces.com/contest/2233/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2233/B%20-%20Different%20Distances/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### data structures
 
@@ -280,6 +282,7 @@
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 2253C | [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2253/C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### strings
 
