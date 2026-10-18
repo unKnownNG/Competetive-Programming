@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 21 |
+| 93 | 21 |
 
 ---
 
@@ -23,13 +23,13 @@
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (23)
+- [greedy](#greedy) (24)
 - [implementation](#implementation) (12)
-- [math](#math) (18)
+- [math](#math) (19)
 - [matrices](#matrices) (1)
-- [number theory](#number-theory) (7)
+- [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (12)
+- [sortings](#sortings) (13)
 - [strings](#strings) (3)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (6)
@@ -185,6 +185,7 @@
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
+| 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.cpp) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
@@ -243,6 +244,7 @@
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### matrices
 
@@ -261,6 +263,7 @@
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 
 ### shortest paths
 
@@ -277,6 +280,7 @@
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 | 845C | [Two TVs](https://codeforces.com/contest/845/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/845/C%20-%20Two%20TVs/solution.cpp) |
 | 960B | [Minimize the error](https://codeforces.com/contest/960/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/960/B%20-%20Minimize%20the%20error/solution.cpp) |
+| 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.cpp) |
 | 1374E1 | [Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1374/E1%20-%20Reading%20Books%20(easy%20version)/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
