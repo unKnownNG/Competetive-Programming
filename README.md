@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 21 |
+| 94 | 21 |
 
 ---
 
@@ -20,12 +20,12 @@
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (15)
-- [games](#games) (3)
+- [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (24)
 - [implementation](#implementation) (12)
-- [math](#math) (19)
+- [math](#math) (20)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (2)
@@ -161,6 +161,7 @@
 |---|---------|------------|----------|
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 1972B | [Coin Games](https://codeforces.com/contest/1972/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1972/B%20-%20Coin%20Games/solution.cpp) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### geometry
@@ -242,6 +243,7 @@
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
