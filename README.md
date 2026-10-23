@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 94 | 21 |
+| 95 | 21 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (15)
+- [dp](#dp) (16)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
@@ -145,6 +145,7 @@
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 909C | [Python Indentation](https://codeforces.com/contest/909/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/909/C%20-%20Python%20Indentation/solution.cpp) |
 | 1132F | [Clear the String](https://codeforces.com/contest/1132/problem/F) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1132/F%20-%20Clear%20the%20String/solution.cpp) |
+| 1245C | [Constanze's Machine](https://codeforces.com/contest/1245/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1245/C%20-%20Constanze's%20Machine/solution.cpp) |
 | 1418C | [Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1418/C%20-%20Mortal%20Kombat%20Tower/solution.cpp) |
 | 1673C | [Palindrome Basis](https://codeforces.com/contest/1673/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1673/C%20-%20Palindrome%20Basis/solution.cpp) |
 | 1881E | [Block Sequence](https://codeforces.com/contest/1881/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1881/E%20-%20Block%20Sequence/solution.cpp) |
