@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 21 |
+| 99 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (41)
+- [Uncategorized](#uncategorized) (42)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (3)
@@ -81,6 +81,7 @@
 | 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 | 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
+| 2277C | [Edge Addeleting](https://codeforces.com/contest/2277/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/C%20-%20Edge%20Addeleting/solution.cpp) |
 
 ### binary search
 
