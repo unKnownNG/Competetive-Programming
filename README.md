@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 99 | 21 |
+| 102 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (42)
+- [Uncategorized](#uncategorized) (44)
 - [binary search](#binary-search) (4)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (3)
@@ -24,13 +24,13 @@
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (25)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (20)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (8)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (14)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (6)
 
@@ -82,6 +82,8 @@
 | 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 | 2277C | [Edge Addeleting](https://codeforces.com/contest/2277/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/C%20-%20Edge%20Addeleting/solution.cpp) |
+| 2278D | [Lock and Unlock](https://codeforces.com/contest/2278/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2278/D%20-%20Lock%20and%20Unlock/solution.cpp) |
+| 2278E | [Swap and Negate](https://codeforces.com/contest/2278/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2278/E%20-%20Swap%20and%20Negate/solution.cpp) |
 
 ### binary search
 
@@ -228,6 +230,7 @@
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2275E | [Repentance Is Already on the Way](https://codeforces.com/contest/2275/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2275/E%20-%20Repentance%20Is%20Already%20on%20the%20Way/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### math
 
@@ -306,6 +309,7 @@
 | 1811A | [Insert Digit](https://codeforces.com/contest/1811/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1811/A%20-%20Insert%20Digit/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### trees
 
