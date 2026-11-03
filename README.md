@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 102 | 21 |
+| 103 | 22 |
 
 ---
 
@@ -14,16 +14,17 @@
 
 - [Uncategorized](#uncategorized) (44)
 - [binary search](#binary-search) (4)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (16)
-- [games](#games) (4)
+- [games](#games) (5)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (25)
+- [greedy](#greedy) (26)
 - [implementation](#implementation) (14)
 - [math](#math) (20)
 - [matrices](#matrices) (1)
@@ -93,6 +94,12 @@
 | 1701C | [Schedule Management](https://codeforces.com/contest/1701/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1701/C%20-%20Schedule%20Management/solution.cpp) |
 | 1795C | [Tea Tasting](https://codeforces.com/contest/1795/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1795/C%20-%20Tea%20Tasting/solution.cpp) |
 | 1891C | [Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1891/C%20-%20Smilo%20and%20Monsters/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 
 ### brute force
 
@@ -167,6 +174,7 @@
 |---|---------|------------|----------|
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 1972B | [Coin Games](https://codeforces.com/contest/1972/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1972/B%20-%20Coin%20Games/solution.cpp) |
+| 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 | 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
@@ -204,6 +212,7 @@
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 1985C | [Good Prefixes](https://codeforces.com/contest/1985/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1985/C%20-%20Good%20Prefixes/solution.cpp) |
 | 1992D | [Test of Love](https://codeforces.com/contest/1992/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/1992/D%20-%20Test%20of%20Love/solution.cpp) |
+| 2171C1 | [Renako Amaori and XOR Game (easy version)](https://codeforces.com/contest/2171/problem/C1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2171/C1%20-%20Renako%20Amaori%20and%20XOR%20Game%20(easy%20version)/solution.cpp) |
 | 2240A | [Another Popcount Problem](https://codeforces.com/contest/2240/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2240/A%20-%20Another%20Popcount%20Problem/solution.cpp) |
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
