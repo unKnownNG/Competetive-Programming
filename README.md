@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 105 | 22 |
+| 106 | 22 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (44)
+- [Uncategorized](#uncategorized) (45)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (5)
@@ -85,6 +85,7 @@
 | 2277C | [Edge Addeleting](https://codeforces.com/contest/2277/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2277/C%20-%20Edge%20Addeleting/solution.cpp) |
 | 2278D | [Lock and Unlock](https://codeforces.com/contest/2278/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2278/D%20-%20Lock%20and%20Unlock/solution.cpp) |
 | 2278E | [Swap and Negate](https://codeforces.com/contest/2278/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2278/E%20-%20Swap%20and%20Negate/solution.cpp) |
+| 2280C | [Reverse and Double](https://codeforces.com/contest/2280/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/unKnownNG/Competetive-Programming/blob/HEAD/2280/C%20-%20Reverse%20and%20Double/solution.cpp) |
 
 ### binary search
 
